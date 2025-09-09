@@ -20,7 +20,7 @@ purchases = [
     {"item": "banana", "category": "fruit", "price": 0.5, "quantity": 5},
     # ... другие покупки
 ]
-
+```
 Где:
 - item — название товара
 - category — категория товара
