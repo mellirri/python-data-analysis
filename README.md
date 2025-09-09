@@ -29,19 +29,24 @@ purchases = [
 
 ## 🖥️ Функции
 
-**total_revenue(purchases)**\n
+**total_revenue(purchases)**
+
 Рассчитывает общую выручку (сумма price * quantity для всех записей)
 
-**items_by_category(purchases)**\n
+**items_by_category(purchases)**
+
 Возвращает словарь с категориями и списками уникальных товаров в каждой категории
 
-**expensive_purchases(purchases, min_price)**\n
+**expensive_purchases(purchases, min_price)**
+
 Выводит все покупки, где цена товара больше или равна min_price
 
-**average_price_by_category(purchases)**\n
+**average_price_by_category(purchases)**
+
 Рассчитывает среднюю цену товаров по каждой категории
 
-**most_frequent_category(purchases)**\n
+**most_frequent_category(purchases)**
+
 Находит категорию с наибольшим количеством проданных товаров
 
 ## 🚀 Как запустить
